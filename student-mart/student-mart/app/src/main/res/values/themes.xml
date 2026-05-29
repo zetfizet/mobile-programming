@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme utama aplikasi -->
+    <style name="Theme.Studentmart" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <!-- Theme untuk Splash Screen -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_ms</item>
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="postSplashScreenTheme">@style/Theme.Studentmart</item>
+    </style>
+</resources>
