@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registrasi Mahasiswa</string>
+    <string name="add_student">Tambah Mahasiswa</string>
+    <string name="edit_student">Edit Mahasiswa</string>
+    <string name="delete_student">Hapus Mahasiswa</string>
+    <string name="student_detail">Detail Mahasiswa</string>
+</resources>
